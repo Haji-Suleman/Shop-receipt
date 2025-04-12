@@ -204,6 +204,7 @@ body {
 }
 .multi-tfoot-td > div {
   display: flex;
+  height: 100%;
 }
 .multi-tfoot-td div div {
   border: 1px solid;
